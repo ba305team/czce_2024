@@ -37,3 +37,5 @@ n = 12
 steps = 'DDUUDDUDUUUD'
 output02 = countingValleys(n, steps)
 print(f'Question 02 output: {output02}\n')
+
+print('goodbye world')
